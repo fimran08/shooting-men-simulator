@@ -1,1 +1,1 @@
-# shooting-men-simulator
+# Project Template 26
